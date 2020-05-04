@@ -1,0 +1,4 @@
+beautifulsoup4==4.9.*
+lxml==4.4.*
+requests==2.23.*
+pandas==1.0.*
